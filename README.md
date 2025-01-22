@@ -11,6 +11,10 @@ This project demonstrates a FastAPI app that integrates with Firebase and Fake S
 ![alt text](products.png) 
 ![alt text](productsonweb.png)
 
+## TASK 3
+![alt text](deployment.png)
+
+
 ## Endpoints
 
 - `/hello`: Returns "Hello World"
