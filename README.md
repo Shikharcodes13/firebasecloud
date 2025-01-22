@@ -3,8 +3,13 @@
 ## Overview
 This project demonstrates a FastAPI app that integrates with Firebase and Fake Store API.
 
-![alt text](hello world.png)
-![alt text](postman.png) ![alt text](products on web.png) ![alt text](products.png) 
+## TASK 1
+![alt text](helloworld.png) 
+
+## TASK 2
+![alt text](postman.png) 
+![alt text](products.png) 
+![alt text](productsonweb.png)
 
 ## Endpoints
 
