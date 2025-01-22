@@ -12,7 +12,7 @@ This project demonstrates a FastAPI app that integrates with Firebase and Fake S
 ![alt text](productsonweb.png)
 
 ## TASK 3
-![alt text](deployment.png)
+![alt text](C:\Users\hp\firebasecloud\deployment .png)
 
 
 ## Endpoints
