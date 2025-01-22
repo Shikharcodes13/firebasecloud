@@ -2,8 +2,8 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 def initialize_firebase():
-    cred = credentials.Certificate("shikhar-bf3c8-firebase-adminsdk-fbsvc-99036133bd.json")
+    cred = credentials.Certificate("path/to/your/credentials.json")    #Add your credentials.json file path here
     firebase_admin.initialize_app(cred, {
-        "databaseURL": "https://shikhar-bf3c8-default-rtdb.firebaseio.com/"
+        "databaseURL": ""    #Remove the url because github didn't allow me to add it
     })
     return db
